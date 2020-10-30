@@ -1,0 +1,69 @@
+,Compte annuel complet,liasse Compte annuel complet
+0,"Autres impôts, taxes et versements assimilés",9Z
+1,Ventes de marchandises,FA
+2,Production vendue biens,FD
+3,Production vendue services,FG
+4,Chiffres d’affaires nets,FJ
+5,Production stockée,FM
+6,Production immobilisée,FN
+7,Subventions d’exploitation,FO
+8,"Reprises sur amortissements et provisions, transfert de charges",FP
+9,Autres produits,FQ
+10,Total des produits d’exploitation,FR
+11,Achats de marchandises (y compris droits de douane),FS
+12,Variation de stock (marchandises),FT
+13,Achats de matières premières et autres approvisionnements,FU
+14,Variation de stock (matières premières et approvisionnements),FV
+15,Autres achats et charges externes,FW
+16,"Impôts, taxes et versements assimilés",FX
+17,Salaires et traitements,FY
+18,Charges sociales,FZ
+19,Autres charges,GE
+20,Total des charges d’exploitation,GF
+21,Résultat d'exploitation,GG
+22,Bénéfice attribué ou perte transférée,GH
+23,Perte supportée ou bénéfice transféré,GI
+24,Produits financiers de participations,GJ
+25,Produits des autres valeurs mobilières et créances de l’actif immobilisé,GK
+26,Autres intérêts et produits assimilés,GL
+27,Reprises sur provisions et transferts de charges financier,GM
+28,Différences positives de change,GN
+29,Produits nets sur cessions de valeurs mobilières de placement,GO
+30,Total des produits financiers,GP
+31,Dotations financières sur amortissements et provisions,GQ
+32,Intérêts et charges assimilées,GR
+33,Différences négatives de change,GS
+34,Charges nettes sur cessions de valeurs mobilières de placement,GT
+35,Total des charges financières,GU
+36,Résultat financier,GV
+37,Résultat en cours avant impôts,GW
+38,Produits exceptionnels sur opérations de gestion,HA
+39,Produits exceptionnels sur opérations en capital,HB
+40,Reprises sur provisions et transferts de charges exceptionnel,HC
+41,Total des produits exceptionnels,HD
+42,Charges exceptionnelles sur opérations de gestion,HE
+43,Charges exceptionnelles sur opérations en capital,HF
+44,Dotations exceptionnelles aux amortissements et provisions,HG
+45,Total des charges exceptionnelles,HH
+46,Résultat exceptionnel,HI
+47,Participation des salariés aux résultats de l’entreprise,HJ
+48,Impôts sur les bénéfices,HK
+49,Total des produits,HL
+50,Total des charges,HM
+51,Bénéfices ou perte (Total des produits ‐ Total des charges),HN
+52,Impôts différés (compte de résultat),R1
+53,Résultat net des sociétés mises en équivalence,R4
+54,Résultat net des entreprises intégrées,R5
+55,Résultat Groupe (Résultat net consolidé),R6
+56,Part des intérêts minoritaires (Résultat hors groupe),R7
+57,Résultat net part du groupe (part de la société mère),R8
+58,Rémunération d’intermédiaires et honoraires (hors rétrocessions),SS
+59,"Location, charges locatives et de copropriété",XQ
+60,Effectif moyen du personnel,YP
+61,Sous‐traitance,YT
+62,Personnel extérieur à l’entreprise,YU
+63,"Rétrocessions d’honoraires, commissions et courtages",YV
+64,Taxe professionnelle,YW
+65,Montant de la TVA. collectée,YY
+66,Total TVA. déductible sur biens et services,YZ
+67,Dividendes,ZE
